@@ -26,3 +26,5 @@ Things you may want to cover:
 Second Commit Test
 Commit with New Branch Test
 Another commit from issue123
+
+First commit from bug branch while previously third commit is made from issue123 but not pushed.
